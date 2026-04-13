@@ -12,6 +12,8 @@ public class App {
 
         String input = sc.nextLine();
 
+        System.out.println("Webhook Working 🔥");
+
         // Split numbers and operator
         double num1 = 0, num2 = 0;
         char operator = ' ';
